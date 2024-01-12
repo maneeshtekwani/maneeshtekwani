@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in analytics and its applications in varied business sectors such as Operations, Product, and Supply Chain Management.
   
-- 🌱 I’m currently learning R for the purpose of Regression Analysis, ANOVA and ANACOVA Models; SQL for Database Development and Visualizations; and Python to Training/Testing Models and build visualization.
+- 🌱 I’m currently learning R for the purpose of Regression Analysis, ANOVA and ANACOVA Models; SQL for Database Development and Visualizations; and Python to Training/Testing Models and build visualizations.
   
 - 📫  Please have a look at some projects I've been working on within my Github repository and hope to connect! Reach me at my email: maneeshtekwani@gmail.com
 
